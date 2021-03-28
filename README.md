@@ -1,2 +1,1 @@
-# NobetciEczaneApp
-JSON kullanarak
+JSON kullanarak İstanbulun ilçelerindeki nöbetçi eczanelere ulaştığımız uygulama
